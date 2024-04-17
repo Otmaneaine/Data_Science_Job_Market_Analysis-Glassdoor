@@ -1,0 +1,34 @@
+# Python-specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+.venv2/
+*.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Editor-specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.swp
+
+# Data files (if they are large or generated)
+data/*.csv
+data/*.xlsx
+data/*.xls
+data/*.zip
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Other generated files
+.DS_Store
